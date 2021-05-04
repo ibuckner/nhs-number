@@ -1,0 +1,13 @@
+*.log*
+*.json
+.buildcache
+.gitignore
+.eslintignore
+.github
+.vscode
+build
+coverage
+node_modules
+pnpm-lock.yaml
+rollup.config.js
+src

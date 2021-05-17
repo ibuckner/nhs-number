@@ -1,4 +1,4 @@
-const reNHS = /[34679]\d\d\s?\d\s?\d\s?\d\s?\d\s?\d\s?\d\s?\d/g;
+const reNHS = /\b[34679]\d\d\s?\d\s?\d\s?\d\s?\d\s?\d\s?\d\s?\d\b/g;
 
 /**
  * Returns true if meets valid NHS number check

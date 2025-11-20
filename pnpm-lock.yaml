@@ -4233,7 +4233,7 @@ snapshots:
 
   micromatch@4.0.4:
     dependencies:
-      braces: 3.0.2
+      braces: 3.0.3
       picomatch: 2.3.0
 
   mime-db@1.49.0: {}
